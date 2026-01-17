@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,T SPORTS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/52500.ts
+#EXTINF:-1,BD: Nagorik Tv HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3802.ts
 #EXTINF:-1,BD_BOISAKHI HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/390.ts
 #EXTINF:-1,BD_CHANNEL 24 HD
@@ -91,10 +95,6 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/1331.ts
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/2882.ts
 #EXTINF:-1,BD: DESHE BIDESHE
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/2883.ts
-#EXTINF:-1,BD: TV9Bangla
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/2885.ts
-#EXTINF:-1,BD : SUN Bangla (4K)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3753.ts
 #EXTINF:-1,BD: RTV Music
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3799.ts
 #EXTINF:-1,BD: ATN Bangla uk
@@ -103,16 +103,12 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3800.ts
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3801.ts
 #EXTINF:-1,BD: Bangla Tv
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3803.ts
-#EXTINF:-1,BD: Tv9 bangla
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3804.ts
 #EXTINF:-1,BD: Gaan Bangla
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3807.ts
 #EXTINF:-1,BD : KHUSHBOO TV HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3808.ts
 #EXTINF:-1,BD: News 24 Tv
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3810.ts
-#EXTINF:-1,BD : News 18 Bangla
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3811.ts
 #EXTINF:-1,BD : ETV TV
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3813.ts
 #EXTINF:-1,BD: SA Tv
@@ -121,30 +117,12 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3814.ts
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3817.ts
 #EXTINF:-1,BD : BTvChattogram
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3818.ts
-#EXTINF:-1,BD: calcutta News
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/3819.ts
-#EXTINF:-1,IN: DD Bangla
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/4049.ts
 #EXTINF:-1,IN: SONY Aath
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/4083.ts
 #EXTINF:-1,BD: GlobalTv_HD
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/4231.ts
 #EXTINF:-1,BD: ABP Ananda
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/5436.ts
-#EXTINF:-1,BD: Star Jalsa (HD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/8540.ts
-#EXTINF:-1,IN: Travelxp HD (BANGLA)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/20622.ts
-#EXTINF:-1,BD: Star Jalsha (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23218.ts
-#EXTINF:-1,BD: ZEE BANGLA (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23305.ts
-#EXTINF:-1,BD: COLORS BANGLA (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23306.ts
-#EXTINF:-1,BD: CHANNEL I
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/34665.ts
-#EXTINF:-1,BD: ZEE BANGLA CINEMA
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/49615.ts
 #EXTINF:-1,BD: ZEE BANGLA (4K).
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98881.ts
 #EXTINF:-1,BD: COLORS BANGLA (4K).
@@ -153,114 +131,6 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98882.ts
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98883.ts
 #EXTINF:-1,BD: JALSHA MOVIES (4K).
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98884.ts
-#EXTINF:-1,BD: Zee24Ghanta
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/144510.ts
-#EXTINF:-1,BD: GreenTv
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/257227.ts
-#EXTINF:-1,BD: Color Bangla Cinema
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/271038.ts
-#EXTINF:-1,CRIC || PTV SPORTS ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/89.ts
-#EXTINF:-1,CRIC || TEN SPORTS ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98.ts
-#EXTINF:-1,CRIC || GEO SUPER ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/101.ts
-#EXTINF:-1,CRIC || SONY SPORTS 3 ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/146.ts
-#EXTINF:-1,CRIC || STAR SPORTS 1 ENG ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148.ts
-#EXTINF:-1,CRIC || SONY SPORTS 1 ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/154.ts
-#EXTINF:-1,CRI: SONY ESPN HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/155.ts
-#EXTINF:-1,CRIC || SONY SPORTS 5 ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/176.ts
-#EXTINF:-1,CRIC || STAR SPORTS 1 HINDI ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/211.ts
-#EXTINF:-1,CRIC || WILLOW SPORTS ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/215.ts
-#EXTINF:-1,CRIC || EUROSPORTS ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/216.ts
-#EXTINF:-1,CRIC || STAR SPORTS SELECT 1 ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/238.ts
-#EXTINF:-1,CRIC || STAR SPORTS 2 ENGLISH ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/239.ts
-#EXTINF:-1,CRIC || RTA SPORTS ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/1039.ts
-#EXTINF:-1,CRIC || STAR SPORTS 3 ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/1080.ts
-#EXTINF:-1,CRIC || FOX CRIC 501 ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/1856.ts
-#EXTINF:-1,CRIC || ASTRO CRICKET ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/2494.ts
-#EXTINF:-1,CRIC || SUPERSPORTS ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/2496.ts
-#EXTINF:-1,CRIC || WILLOW 2 ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/5040.ts
-#EXTINF:-1,CRIC || STAR SPORTS 1 TAMIL ⁴ᵏ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9722.ts
-#EXTINF:-1,CRIC || T SPORTS ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/18452.ts
-#EXTINF:-1,CRIC || SONY SPORTS 2 ᴴᴰ
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/31314.ts
-#EXTINF:-1,CRI: ATN Plus Cricket
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/85829.ts
-#EXTINF:-1,BANGLA-MOVIES 1 HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/136494.ts
-#EXTINF:-1,BANGLA-MOVIES 2 HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/136495.ts
-#EXTINF:-1,BANGLA-MOVIES 3 HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/136496.ts
-#EXTINF:-1,BANGLA-MOVIES 4 HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/136497.ts
-#EXTINF:-1,BANGLA-MOVIES 5 HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/136498.ts
-#EXTINF:-1,BANGLA-MOVIES 7 HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/136500.ts
-#EXTINF:-1,BANGLA-MOVIES 8 HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/136501.ts
-#EXTINF:-1,PK: PTV GLOBAL
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/109.ts
-#EXTINF:-1,PK: PTV HOME
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/110.ts
-#EXTINF:-1,PK: 8XM
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/112.ts
-#EXTINF:-1,PK: ATV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/116.ts
-#EXTINF:-1,PK: TV ONE
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/117.ts
-#EXTINF:-1,PK : EXPRESS TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/118.ts
-#EXTINF:-1,PK : GEO TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/119.ts
-#EXTINF:-1,PK: GEO KAHANI-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/120.ts
-#EXTINF:-1,PK : HUM TV EUROPE
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/121.ts
-#EXTINF:-1,PK: HUM TV-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/122.ts
-#EXTINF:-1,PK : ARY ZINDAGI
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/123.ts
-#EXTINF:-1,PK: ARY DIGITAL-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/124.ts
-#EXTINF:-1,PK: ARY DIGITAL (UK)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/125.ts
-#EXTINF:-1,PK : A PLUS
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/126.ts
-#EXTINF:-1,PK: PLAY TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/859.ts
-#EXTINF:-1,PK: APNA
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/869.ts
-#EXTINF:-1,PK: PAIGAM PUSHTO
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/1846.ts
-#EXTINF:-1,PK: HUM TV MASALA
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/1919.ts
-#EXTINF:-1,PK: SAHAR TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/2014.ts
-#EXTINF:-1,PK: SINDH TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/2498.ts
-#EXTINF:-1,PK: SEE TV-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/4057.ts
 #EXTINF:-1,IN: &PRIVE (4K).
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98840.ts
 #EXTINF:-1,IN: &FLIX (4K).
@@ -317,138 +187,30 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98878.ts
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98879.ts
 #EXTINF:-1,IN: NICK (4K).
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98880.ts
-#EXTINF:-1,IN : CARTOON NETWORK HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/8.ts
-#EXTINF:-1,USA: DISNEY JR HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/49.ts
-#EXTINF:-1,Islam | Ar: Saudia Quran HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319463.ts
-#EXTINF:-1,Islam | Ar: Saudia Sunnah HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319464.ts
-#EXTINF:-1,Islam | Ar: Iqraa TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319465.ts
-#EXTINF:-1,Islam | En: Iqraa TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319466.ts
-#EXTINF:-1,Islam | Ar: Resala
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319467.ts
-#EXTINF:-1,Islam | Ar: Al Rahma
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319468.ts
-#EXTINF:-1,Islam | Ar: Mecca
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319469.ts
-#EXTINF:-1,Islam | Ar: Safa TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319470.ts
-#EXTINF:-1,Islam | Ar: Masr Quran Kareem
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319471.ts
-#EXTINF:-1,Islam | Ar: Zad TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319472.ts
-#EXTINF:-1,Islam | Ar: Al Majd Quran Kareem
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319473.ts
-#EXTINF:-1,Islam | Ar: Al Fath TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319474.ts
-#EXTINF:-1,Islam | Ar: Al Fateh Quran
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319475.ts
-#EXTINF:-1,Islam | Ar: Al Nada TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319476.ts
-#EXTINF:-1,Islam | Ar: Al Erth Alnabawi TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319477.ts
-#EXTINF:-1,Islam | Ar: Al Hadeeth Al Nabawy
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319478.ts
-#EXTINF:-1,Islam | Ar: Al Afasi
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319479.ts
-#EXTINF:-1,Islam | Ar: Bahrain Quran HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319480.ts
-#EXTINF:-1,Islam | Ar: Al Nas TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319481.ts
-#EXTINF:-1,Islam | Ar: Bin Othaimeen
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319484.ts
-#EXTINF:-1,Islam | Ar: Resalet Alsalam
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319485.ts
-#EXTINF:-1,Islam | Ar: Algeria TV Coran
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319486.ts
-#EXTINF:-1,Islam | Ar: Tanasuh TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319487.ts
-#EXTINF:-1,Islam | Ar: Al Istiqama TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319488.ts
-#EXTINF:-1,Islam | Ar: Al Shams
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319489.ts
-#EXTINF:-1,Islam | Ar: Lipc TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319490.ts
-#EXTINF:-1,Islam | Ar: Al Iman TV Lebanon
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319491.ts
-#EXTINF:-1,Islam | Ar: Eman Channel TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319492.ts
-#EXTINF:-1,Islam | Ar: Al-Anis TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319493.ts
-#EXTINF:-1,Islam | Ar: Al Sirat
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319494.ts
-#EXTINF:-1,Islam | Ar: Dawaah TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319495.ts
-#EXTINF:-1,Islam | Ar: Thaqalayn TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319496.ts
-#EXTINF:-1,Islam | Ar: Al Maaref TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319497.ts
-#EXTINF:-1,Islam | Ar: Al Basira TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319498.ts
-#EXTINF:-1,Islam | Ar: Al Insan TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319499.ts
-#EXTINF:-1,Islam | Ar: Al Salam TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319500.ts
-#EXTINF:-1,Islam | Ar: Azhari TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319501.ts
-#EXTINF:-1,Islam | En: Islam Channel
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319502.ts
-#EXTINF:-1,Islam | Ar: Al Afasy العفاسي القران
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319503.ts
-#EXTINF:-1,Islam | Ar: Al Mueaqly المعيقلي القران
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319504.ts
-#EXTINF:-1,Islam | Ar: Al Sudais السديس القران
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319505.ts
-#EXTINF:-1,Quran TV:  أذكار الصباح بيشه وا قادر الكردي
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319506.ts
-#EXTINF:-1,Quran TV:  ياسر الدوسري
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319507.ts
-#EXTINF:-1,News | Ar: Saudia Al Ekhbariya ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319305.ts
-#EXTINF:-1,Sa| SBC Saudia HD ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319425.ts
-#EXTINF:-1,Sa| Saudia Quran HD ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319426.ts
-#EXTINF:-1,Sa| Saudia Sunnah HD ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319427.ts
-#EXTINF:-1,Sa| Saudi TV HD ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319428.ts
-#EXTINF:-1,Sa| Atfal & Mawaheb ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319429.ts
-#EXTINF:-1,Sa| Saudia 24 ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319430.ts
-#EXTINF:-1,Sa| Saudi 24 Sport ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319431.ts
-#EXTINF:-1,Sa| Asharq News HD ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319432.ts
-#EXTINF:-1,Sa| Iqraa ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319433.ts
-#EXTINF:-1,Sa| Saudia Al Ekhbariya HD ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319434.ts
-#EXTINF:-1,Sa| iEN TV HD ✦
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319435.ts
-#EXTINF:-1,IN: COLORS FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/195.ts
-#EXTINF:-1,IN: ZEE TV FHD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/220.ts
-#EXTINF:-1,IN: SONY (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9365.ts
-#EXTINF:-1,IN: STAR PLUS (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9366.ts
-#EXTINF:-1,IN: STAR BHARAT (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9367.ts
-#EXTINF:-1,IN: SAB (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9368.ts
-#EXTINF:-1,IN: &TV (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9369.ts
-#EXTINF:-1,IN: Colors (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9370.ts
-#EXTINF:-1,IN: ZEE TV (FHD)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9371.ts
+#EXTINF:-1,Telugu: ETV (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98885.ts
+#EXTINF:-1,Telugu: STAR-MAA (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98886.ts
+#EXTINF:-1,Telugu: STAR-MAA-MOVIE (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98887.ts
+#EXTINF:-1,IN: TEN 1 (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98861.ts
+#EXTINF:-1,IN: TEN 2 (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98862.ts
+#EXTINF:-1,IN: TEN 3 (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98863.ts
+#EXTINF:-1,IN: STAR SPORTS 1 (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98864.ts
+#EXTINF:-1,IN: STAR SPORTS 2 (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98865.ts
+#EXTINF:-1,IN: STAR SPORTS 1 HINDI (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98866.ts
+#EXTINF:-1,IN: STAR SPORTS SELECT 1 (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98867.ts
+#EXTINF:-1,IN: START SPORTS SELECT 2 (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98868.ts
+#EXTINF:-1,IN: SONY TEN 5 (4K).
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/98870.ts
 #EXTINF:-1,IN: Star Sports Select 1 (FHD)
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9400.ts
 #EXTINF:-1,IN: Star Sports Select 2 (FHD)
@@ -461,6 +223,24 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9404.ts
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23308.ts
 #EXTINF:-1,IN: SONY MAX (FHD)
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9373.ts
+#EXTINF:-1,IN: Zee Anmol
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/203.ts
+#EXTINF:-1,IN : Colors Rishtey TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/241.ts
+#EXTINF:-1,IN: Food Food
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/250.ts
+#EXTINF:-1,IN: ZEE Bollywood
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/966.ts
+#EXTINF:-1,IN: Zee Action
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/967.ts
+#EXTINF:-1,IN : B4U Movies
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/968.ts
+#EXTINF:-1,IN: STAR GOLD ROMANCE
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/972.ts
+#EXTINF:-1,IN: SONY MAX 2
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/973.ts
+#EXTINF:-1,IN: MANORANJAN TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/2433.ts
 #EXTINF:-1,IN: Star GOLD (FHD)
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9375.ts
 #EXTINF:-1,IN: Star Gold SELECT (FHD)
@@ -503,13 +283,274 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9394.ts
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9395.ts
 #EXTINF:-1,IN: Sony BBC EARTH (FHD)
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9396.ts
-#EXTINF:-1,IN: B4U Movies APAC HD
-http://filex.me:8080//live/000003/000003/499612.ts
-#EXTINF:-1,IN: B4U Movies HD
-http://filex.me:8080//live/000003/000003/499611.ts
-#EXTINF:-1,IN: B4U Music HD
-http://filex.me:8080//live/000003/000003/499687.ts
-#EXTINF:-1,IN: B4U PLUS HD
-http://filex.me:8080//live/000003/000003/499613.ts
-
-
+#EXTINF:-1,Tamil: VIJAY TV (FHD)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9969.ts
+#EXTINF:-1,Tamil: Colors Tamil (FHD)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9970.ts
+#EXTINF:-1,Tamil: Zee Tamil (FHD)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9971.ts
+#EXTINF:-1,Tamil: KTV (FHD)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23318.ts
+#EXTINF:-1,Tamil: SUNTV (FHD)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23320.ts
+#EXTINF:-1,Tamil: SUN-MUSIC (FHD)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/2332#EXTINF:-1,CRIC || TNT SPORTS 3 ᶠᴴᴰ
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148090.ts
+#EXTINF:-1,CRIC || T SPORTS ᴴᴰ
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/113069.ts
+#EXTINF:-1,CRIC || SONY SPORTS 4 TAMIL
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/29469.ts
+#EXTINF:-1,IN: Sony Ten 2 (4K)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9403.ts
+#EXTINF:-1,IN: SONY TEN 5 (FHD)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/17565.ts
+#EXTINF:-1,CRIC || SKY SPORTS CRIC ᴴᴰ
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/12.ts
+#EXTINF:-1,PK : GEO NEWS-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/129.ts
+#EXTINF:-1,PK : KHYBER NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/130.ts
+#EXTINF:-1,PK : PTV News-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/131.ts
+#EXTINF:-1,PK : CAPITAL TV NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/132.ts
+#EXTINF:-1,PK : DAWN NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/133.ts
+#EXTINF:-1,PK : DUNYA NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/134.ts
+#EXTINF:-1,PK : BOL NEWS-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/135.ts
+#EXTINF:-1,PK : ABB TAK
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/136.ts
+#EXTINF:-1,PK : AAJ NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/137.ts
+#EXTINF:-1,PK : 24 NEWS HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/138.ts
+#EXTINF:-1,PK : GNN NEWS-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/139.ts
+#EXTINF:-1,PK : SAMAA NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/140.ts
+#EXTINF:-1,PK : 92 NEWS-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/141.ts
+#EXTINF:-1,PK : NEWS ONE
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/142.ts
+#EXTINF:-1,PK : ARY NEWS-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/143.ts
+#EXTINF:-1,PK: LAHORE RUNG
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/860.ts
+#EXTINF:-1,PK: LAHORE NEWS-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/861.ts
+#EXTINF:-1,PK: GTV NETWORK
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/4058.ts
+#EXTINF:-1,PK: PNN NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/4076.ts
+#EXTINF:-1,UK: HUM NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/4087.ts
+#EXTINF:-1,PK: 24 NEWS-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/6626.ts
+#EXTINF:-1,PK: ROHI TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/18162.ts
+#EXTINF:-1,PK: WASEEB TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/18163.ts
+#EXTINF:-1,PK: TV TODAY
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/18165.ts
+#EXTINF:-1,PK : VENUS-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23961.ts
+#EXTINF:-1,PK: CHANNEL 44 UK
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/37727.ts
+#EXTINF:-1,UK: 92 NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/39419.ts
+#EXTINF:-1,UK: ARY WORLD NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/69547.ts
+#EXTINF:-1,PK: KTN News
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/124085.ts
+#EXTINF:-1,PK: SUNO TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/127413.ts
+#EXTINF:-1,PK: PTV NATIONAL
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/140919.ts
+#EXTINF:-1,PK: VSH NEWS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/169960.ts
+#EXTINF:-1,PK: ABN NEWS (4K)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/256458.ts
+#EXTINF:-1,PK: BOL NEWS (4K)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/257228.ts
+#EXTINF:-1,PK: TIMES NEWS HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/291216.ts
+#EXTINF:-1,PK: AanTv HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/94.ts
+#EXTINF:-1,PK: HBO PAKISTAN
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/95.ts
+#EXTINF:-1,PK: TAG TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/96.ts
+#EXTINF:-1,PK: BOL ENTERTAINMENT TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/99.ts
+#EXTINF:-1,PK: AAJ ENTERTAINMENT
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/105.ts
+#EXTINF:-1,PK: Z9TV DIGITAL CANDA-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/106.ts
+#EXTINF:-1,PK: KHYBER TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/107.ts
+#EXTINF:-1,PK: PASHTO TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/108.ts
+#EXTINF:-1,PK: PTV GLOBAL
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/109.ts
+#EXTINF:-1,PK: PTV HOME
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/110.ts
+#EXTINF:-1,PK: 8XM
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/112.ts
+#EXTINF:-1,PK: ATV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/116.ts
+#EXTINF:-1,PK: TV ONE
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/117.ts
+#EXTINF:-1,PK : EXPRESS TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/118.ts
+#EXTINF:-1,PK : GEO TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/119.ts
+#EXTINF:-1,PK: GEO KAHANI-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/120.ts
+#EXTINF:-1,PK : HUM TV EUROPE
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/121.ts
+#EXTINF:-1,PK: HUM TV-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/122.ts
+#EXTINF:-1,PK : ARY ZINDAGI
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/123.ts
+#EXTINF:-1,PK: ARY DIGITAL-HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/124.ts
+#EXTINF:-1,PK: ARY DIGITAL (UK)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/125.ts
+#EXTINF:-1,PK : A PLUS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/126.ts
+#EXTINF:-1,PK: PLAY TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/859.ts
+#EXTINF:-1,PK: APNA
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/869.ts
+#EXTINF:-1,IN : B4U Plus
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/969.ts
+#EXTINF:-1,IN: Zing TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/970.ts
+#EXTINF:-1,IN: MTV HD PLUS
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/4029.ts
+#EXTINF:-1,IN: 9XM
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/7255.ts
+#EXTINF:-1,IN: Mastiii
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/7256.ts
+#EXTINF:-1,IN: B4U Music
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/7258.ts
+#EXTINF:-1,IN: 9X Jalwa HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9057.ts
+#EXTINF:-1,IN: Zoom
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9488.ts
+#EXTINF:-1,IN: MTV Plus (4K)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/94499.ts
+#EXTINF:-1,MTV FHD (HINDI)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/130045.ts
+#EXTINF:-1,IN:  Animal_Planet_Hindi
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/5249.ts
+#EXTINF:-1,IN:  Discovery_Channel_Hindi
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/5250.ts
+#EXTINF:-1,IN: Sony Pal
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/6627.ts
+#EXTINF:-1,IN: Zee Classic
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/7064.ts
+#EXTINF:-1,IN: Zee Anmol Cinema
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/7065.ts
+#EXTINF:-1,IN: India TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/7432.ts
+#EXTINF:-1,IN: Zee Hindustan
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/7720.ts
+#EXTINF:-1,IN: E24
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9487.ts
+#EXTINF:-1,IN: SONY HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9885.ts
+#EXTINF:-1,IN: Food Food
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/9975.ts
+#EXTINF:-1,IN: INVESTIGATION DISCOVERY (4K)
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23790.ts
+#EXTINF:-1,IN:  Discovery Turbo
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/23917.ts
+#EXTINF:-1,DANGAL
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/53107.ts
+#EXTINF:-1,IN: Star Utsav
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/158970.ts
+#EXTINF:-1,Islam | Ar: Saudia Quran HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319463.ts
+#EXTINF:-1,Islam | Ar: Saudia Sunnah HD
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319464.ts
+#EXTINF:-1,Islam | Ar: Iqraa TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319465.ts
+#EXTINF:-1,Islam | En: Iqraa TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319466.ts
+#EXTINF:-1,Islam | Ar: Resala
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319467.ts
+#EXTINF:-1,Islam | Ar: Al Rahma
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319468.ts
+#EXTINF:-1,Islam | Ar: Mecca
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319469.ts
+#EXTINF:-1,Islam | Ar: Safa TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319470.ts
+#EXTINF:-1,Islam | Ar: Masr Quran Kareem
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319471.ts
+#EXTINF:-1,Islam | Ar: Zad TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319472.ts
+#EXTINF:-1,Islam | Ar: Al Majd Quran Kareem
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319473.ts
+#EXTINF:-1,Islam | Ar: Al Fath TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319474.ts
+#EXTINF:-1,Islam | Ar: Al Fateh Quran
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319475.ts
+#EXTINF:-1,Islam | Ar: Al Nada TV
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319476.ts
+#EXTINF:-1,US (IN) Star Plus
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/375334.ts
+#EXTINF:-1,US (IN) Jalsha Movies
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/375335.ts
+#EXTINF:-1,Sa| Oyoon Alwatan ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319419.ts
+#EXTINF:-1,Sa| Thikrayat HD ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319420.ts
+#EXTINF:-1,Sa| Bin Othaimeen ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319421.ts
+#EXTINF:-1,Sa| Al Sahraa TV ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319422.ts
+#EXTINF:-1,Sa| Zad TV ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319423.ts
+#EXTINF:-1,Sa| Al Waqie TV ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319424.ts
+#EXTINF:-1,Sa| SBC Saudia HD ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319425.ts
+#EXTINF:-1,Sa| Saudia Quran HD ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319426.ts
+#EXTINF:-1,Sa| Saudia Sunnah HD ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319427.ts
+#EXTINF:-1,Sa| Saudi TV HD ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319428.ts
+#EXTINF:-1,Sa| Atfal & Mawaheb ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319429.ts
+#EXTINF:-1,Sa| Saudia 24 ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319430.ts
+#EXTINF:-1,Sa| Saudi 24 Sport ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319431.ts
+#EXTINF:-1,Sa| Asharq News HD ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319432.ts
+#EXTINF:-1,Sa| Iqraa ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319433.ts
+#EXTINF:-1,Sa| Saudia Al Ekhbariya HD ✦
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/319434.ts
+#EXTINF:-1,UK HD : BBC News
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148365.ts
+#EXTINF:-1,UK FHD : TRT World
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148235.ts
+#EXTINF:-1,UK FHD : GB News
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148243.ts
+#EXTINF:-1,UKFHD : Al Jazeera
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148251.ts
+#EXTINF:-1,UK FHD : CNN
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148282.ts
+#EXTINF:-1,UK HD : CNBC
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148287.ts
+#EXTINF:-1,UKHD : Al Jazeera
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148302.ts
+#EXTINF:-1,UKHD : Sky News
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148335.ts
+#EXTINF:-1,UKHD : Sky Cinema Sci-Fi Horror
+https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/148332.ts
